@@ -1,3 +1,15 @@
+commit d47389b8594de8b37e9c73103abcf9433b12a823 (HEAD -> master)
+Author: MatheuSilvaBrr <matheus119599@gmail.com>
+Date:   Tue Mar 12 20:54:22 2019 -0300
+
+    Segunda Alteração
+
+commit 6306af720e69b26aee6f7d1c857480d2786d4ee0
+Author: MatheuSilvaBrr <matheus119599@gmail.com>
+Date:   Tue Mar 12 20:52:22 2019 -0300
+
+    Alteração
+
 commit 3823729e6b75989bb7b1be63f11b7e8f3c8e0a5b (HEAD -> master, Exercicios/master)
 Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
 Date:   Tue Mar 12 16:55:27 2019 -0300
