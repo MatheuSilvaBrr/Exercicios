@@ -18,11 +18,11 @@
 
 5. git config user.name "<seu nome>"
 
-6.git config user.email "<seu e-mail>"
+6. git config user.email "<seu e-mail>"
 
 7. git log - mostra todos os commits
 
-8.git remote add <nome do repositorio> <url do repositorio>
+8. git remote add <nome do repositorio> <url do repositorio>
 
 9. git push origin master - enviar do repositorio local para o remoto
 
@@ -30,5 +30,7 @@
 
 
 
-*Autoria e contribuições*
-Matheus e Maiko
+*Autoria *
+1. Matheus 
+* Contribuições*
+2. Maiko
