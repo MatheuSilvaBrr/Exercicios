@@ -1,5 +1,34 @@
-Author: MatheuSilvaBrr <matheus11959@gmail.com>
-Date:   Tue Mar 12 15:59:17 2019 -0300
+commit 3823729e6b75989bb7b1be63f11b7e8f3c8e0a5b (HEAD -> master, Exercicios/master)
+Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
+Date:   Tue Mar 12 16:55:27 2019 -0300
 
-    Status repositorio
+    Update README.md
 
+commit 12323f7caf0490c1d9201c1f572fc59ed90123f8
+Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
+Date:   Tue Mar 12 16:54:36 2019 -0300
+
+    Update README.md
+
+commit 3823729e6b75989bb7b1be63f11b7e8f3c8e0a5b (HEAD -> master, Exercicios/mast
+er)
+Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
+Date:   Tue Mar 12 16:55:27 2019 -0300
+
+    Update README.md
+
+commit 12323f7caf0490c1d9201c1f572fc59ed90123f8
+Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
+Date:   Tue Mar 12 16:54:36 2019 -0300
+
+    Update README.md
+
+commit 7618475ecb6138c8281c08e957bdb117f8fd11df
+Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
+Date:   Tue Mar 12 16:53:54 2019 -0300
+
+    Update README.md
+
+commit c1f8c1c730e38105ed866ecd38f30fb822a1d078
+Author: MatheuSilvaBrr <40608353+MatheuSilvaBrr@users.noreply.github.com>
+Date:   Tue Mar 12 16:52:50 2019 -0300
