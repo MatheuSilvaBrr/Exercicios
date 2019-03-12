@@ -14,7 +14,7 @@
 
 3. git add <nome do arquivo>: adiciona um arquivo
 
-4. git commit -a -m "<mensagem clara>
+4. git commit -a -m "<mensagem clara>"
 
 5. git config user.name "<seu nome>"
 
